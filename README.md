@@ -73,8 +73,3 @@ This dashboard helps in:
 
 **Sudarshan Pawar**
 
----
-
-## ⭐ Feedback
-
-If you like this project, don’t forget to ⭐ star the repository!
