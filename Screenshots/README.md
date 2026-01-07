@@ -8,17 +8,17 @@ This Power BI project provides insights into:
 
 ## 📸 Dashboard Screenshots
 
-### 🔹 Home Page
-![Home Page](Screenshots/Home%20Page1%201.png)
+### 🏠 Home Page
+![Home Page](Screenshots/home_page_1.png)
 
-### 🔹 Overview Dashboard
-![Overview Dashboard](Screenshots/Overview%20Dashboard%20Page2%202.png)
+### 📊 Overview Dashboard
+![Overview Dashboard](Screenshots/overview_dashboard_page_2.png)
 
-### 🔹 Book Analysis
-![Book Analysis](Screenshots/Book%20Analysis%20Page3%204.png)
+### 📘 Book Analysis
+![Book Analysis](Screenshots/book_analysis_page_4.png)
 
-### 🔹 Students & Fine Analysis
-![Students & Fine Analysis](Screenshots/Student%20%26%20Fine%20Analysis%20Page4%203.png)
+### 🎓 Student & Fine Analysis
+![Student & Fine Analysis](Screenshots/student_fine_analysis_page_3.png)
 
 ## 🛠 Tools Used
 - Power BI
