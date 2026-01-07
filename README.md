@@ -1,76 +1,36 @@
-# LIBRARY-MANAGEMENT-DASHBOARD
+Hi 👋, I'm Nikita Jadhav
+A passionate Data Analyst || Data Engineer || Software Engineer
 
-# 📚 Library Management Dashboard
+Email Me 👉 ✉️ *jadhavnikita72003@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-A **Library Management Dashboard** built to analyze and visualize library data such as
-book usage, student activity, fines, and overall performance.  
-This dashboard helps librarians and management make **data-driven decisions** easily.
+🔭 I’m currently working on: Personal AI assistant project
 
----
+🌱 I’m currently learning: Data Analytics
 
-## 🚀 Project Overview
+💬 Ask me about: Collaboration
 
-This Power BI dashboard provides insights into:
+📫 How to reach me: jadhavnikita72003@gmail.com
 
-- Book issue and return trends  
-- Student activity analysis  
-- Fine collection analysis  
-- Overall library performance  
+😄 **Pronouns:**Nikita
 
-The project is designed with a **clean UI** and **interactive visuals**.
+⚡ Fun fact: I Love Tech and Tech Love Me
 
----
+🏆 GitHub Trophies
 
-## 🛠 Tools & Technologies Used
 
-- Power BI  
-- MS Excel (Dataset preparation)  
-- Data Cleaning & Data Modeling  
-- Dashboard Design & Visualization  
+🌐 Socials:
+LinkedIn YouTube email
 
----
+Snake animation
+💻 Tech Stack:
+C++ Java Python HTML5 CSS3 C AWS Apache Spark Flask Apache MySQL MongoDB Postgres MicrosoftSQLServer Adobe Adobe Acrobat Reader Matplotlib Pandas NumPy Plotly scikit-learn Scipy TensorFlow PyTorch Git GitHub Actions GitHub Apache Tomcat Adobe Fonts Adobe After Effects Adobe Creative Cloud Power Bi
 
-## 📊 Dashboard Screenshots
+📊 GitHub Stats:
 
-### 🏠 Home Page
-![Home Page](Screenshots/Home%20Page%201.png)
 
----
 
-### 📊 Overview Dashboard
-![Overview Dashboard](Screenshots/Overview%20Dashboard%20Page%202.png)
 
----
+✍️ Random Dev Quote
 
-### 🎓 Student & Fine Analysis
-![Student & Fine Analysis](Screenshots/Student%20%26%20Fine%20Analysis%20Page%203.png)
 
----
-
-### 📘 Book Analysis
-![Book Analysis](Screenshots/Book%20Analysis%20Page%204.png)
-
----
-
-## 🔍 Key Insights
-
-- Identified peak book issue periods  
-- Analyzed student-wise fine distribution  
-- Tracked most issued book categories  
-- Improved understanding of library usage patterns  
-
----
-
-## ✅ Conclusion
-
-This dashboard helps in:
-- Better decision making  
-- Improving library efficiency  
-- Understanding student behavior  
-- Monitoring fines and book usage  
-
----
-
-## 👨‍💻 Created By
-
-  Sudarshan Pawar
+🔝 Top Contributed Repo
